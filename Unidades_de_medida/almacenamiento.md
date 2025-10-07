@@ -15,3 +15,5 @@ Un DVD = 4.7 GB * 1024 = 4.812,8 MB
 1TB = 1024 GB
 1 DVD = 4.7 GB 
 1024/ 4.7 = 217.87 --> Se pueden volcar 217 enteros en el USB 
+### 2. ¿Cuántos KB/s bajas con una línea ADSL de 6 Mb? 
+6144 KB
