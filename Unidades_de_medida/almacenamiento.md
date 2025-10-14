@@ -17,3 +17,31 @@ Un DVD = 4.7 GB * 1024 = 4.812,8 MB
 1024/ 4.7 = 217.87 --> Se pueden volcar 217 enteros en el USB 
 ### 2. ¿Cuántos KB/s bajas con una línea ADSL de 6 Mb? 
 6144 KB
+### Ver una película utilizando una conexión wi-fi (velocidad de transferencia aprox. 54Mb/s) entre un Smart Tv y una Notebook tamaño de la película 3Gb. Duración de la película: 156 min.La puedo ver bien o se corta?
+3Gb = 3* 1024= 3072 MB
+156*60= 9360 segundos 
+
+3072 MB/54 = 56,88 segundos tarda en transmitir toda la peli.
+
+### Tiempo de descarga de la misma película con la velocidad de transferencia indicada (87 Kb/s)
+3Gb = 1024* 1024 *3 Gb = 3.145.728 kb
+3.145.728 /87 kb/s = 36.157,79 segundos --> 36.157,8 / 60= 602 minutos--> 602/60= 10 horas
+
+### ¿Cuántos KB/s bajas con una línea ADSL de 6Mb?
+1B= 8 byte
+
+6MB / 8 = 0.75 MB 
+0.75 MB/s * 1024=  768 MB/s
+### ¿Cuántos MB puedes bajarte al minuto con la línea ADSL anterior?
+768 * 60 = 46.080 KB/min /1024 = 45Mb/min
+
+### Dado una CPU de 10GHz si el tipo de instrucciones es de tipo RISC (reducida, 1 intruccion cada 5 ciclos de reloj )¿Cuantas instrucciones se ejecutan en 1 segundo?¿Y en 2 minutos?
+
+
+
+
+
+
+
+
+
